@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="Photos/NX6.jpg" alt="What is this">
+  <img src="Photos/NX6.jpg" alt="Controller Image" width="75%">
 </p>
