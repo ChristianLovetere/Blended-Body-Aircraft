@@ -9,9 +9,7 @@
 We use the NX6 Controller to control the drone. This controller is made for use with hobby drones, and the corresponding receiver is attached to the plane. The receiver natively controls the aileron servos, and the servos and actuators for the landing gear are controlled via Arduino. The receiver values on the channels that correspond to arduino-controlled components are sent to the arduino itself to do some simple processing.
 
 <p align="center">
-  <img src="Photos/NX6.jpg" alt="Controller Image" width="75%">
+  <img src="Photos/NX6.jpg" alt="Controller Image" width="50%">
 </p>
 
-<p align="center">
-  <embed src="PlaneWiringSchematic.pdf" type="application/pdf" width="100%" height="600px" />
-</p>
+Schematic available here: !["PlaneWiringSchematic"]
