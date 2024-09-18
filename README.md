@@ -11,6 +11,6 @@ We use the NX6 Controller to control the drone. This controller is made for use 
 <p align="center">
   <img src="Photos/NX6.jpg" alt="Controller Image" width="50%">
 </p>
-<p align="center">
-<Schematic available ![here](PlaneWiringSchematic.pdf).>
- </p>
+
+Schematic available ![here](PlaneWiringSchematic.pdf).
+
